@@ -15,6 +15,7 @@ mongoDB , pymongo python sample
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/mongo_5
 
 ***
 
